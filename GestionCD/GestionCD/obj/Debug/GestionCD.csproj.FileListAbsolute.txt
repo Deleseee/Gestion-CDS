@@ -1,0 +1,16 @@
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.BusqModCD.resources
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.CDNuevo.resources
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.Gestioncd.resources
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.Properties.Resources.resources
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.CDNuevo.aa-ER.resources
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\bin\Debug\GestionCD.exe.config
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\bin\Debug\GestionCD.exe
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\bin\Debug\GestionCD.pdb
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\bin\Debug\aa-ER\GestionCD.resources.dll
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\aa-ER\GestionCD.resources.dll
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.exe
+C:\Users\usuario\Desktop\GestionCD\GestionCD\GestionCD\obj\Debug\GestionCD.pdb
